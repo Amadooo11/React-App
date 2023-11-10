@@ -1,0 +1,22 @@
+header{
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+
+header .col-1, .col-2{
+  margin-left: 50px;
+}
+
+section{
+  margin-top: 50px;
+}
+
+section div{
+  margin-left: 50px;
+  margin-top: 20px;
+  background-color: rgb(189, 189, 189);
+  width: 20%;
+  font-size: 20px;
+  padding: 10px;
+}
